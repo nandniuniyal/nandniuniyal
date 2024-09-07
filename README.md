@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandniuniyal" alt="nandniuniyal" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/nandniuniyal" target="blank"><img src="https://img.shields.io/twitter/follow/nandniuniyal?logo=twitter&style=for-the-badge" alt="nandniuniyal" /></a> </p>
-
 - 🔭 I’m currently working on **Optimizing Machine Learning Models for Real-Time Data Analytics in IoT Systems.**
 
 - 🌱 I’m currently learning **Machine learning frameworks, IoT application development, and data science.**
@@ -25,10 +23,6 @@
 
 - ⚡ Fun fact **I believe that coding is like public speaking – both require creativity, precision, and timing, and I love doing both!**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/nandniuniyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nandniuniyal" height="30" width="40" /></a>
@@ -43,9 +37,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/nandniuniyal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/nandniuniyal" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandniuniyal&show_icons=true&locale=en&layout=compact" alt="nandniuniyal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandniuniyal&show_icons=true&locale=en" alt="nandniuniyal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandniuniyal&" alt="nandniuniyal" /></p>
