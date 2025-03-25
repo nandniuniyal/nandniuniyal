@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Collaborative work in community service and event management through ROTARACT**
 
-- 📫 How to reach me **nandniuniyal2929@gmail.com**
+- 📫 How to reach me **work.nandni29@gmail.com**
 
 - ⚡ Fun fact **I believe that coding is like public speaking – both require creativity, precision, and timing, and I love doing both!**
 
